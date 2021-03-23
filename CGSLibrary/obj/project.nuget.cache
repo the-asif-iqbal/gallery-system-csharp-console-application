@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xZxgK/4UrkQ5/y2rKcLqyHUWBf8a/T0nMXQPIfIX+toaO+yChWFz1A+u0yRlEB/wjDgns/Eiq16lIdSR1GpcAg==",
+  "success": true,
+  "projectFilePath": "D:\\CDI\\Course 5 - Programming Techniques\\CGSLibrary\\CGSLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asif\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Asif\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Asif\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
